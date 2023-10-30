@@ -1,0 +1,113 @@
+.back {
+    background-image: url(/image/archlinux-arch-linux-wallpaper-preview.webp);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+.config {
+    background-color: transparent;
+    border-style: inset;
+    border-radius: 30px;
+    border-color: green;
+    width: 98%;
+    height: 100px;
+}
+.ac {
+    color: green;
+}
+.btn {
+    color: green;
+    background-color: transparent;
+    align-items: center;
+    text-align: center;
+    border-radius: 20px;
+    position: relative;
+    border-style: inset;
+    border-color: green;
+}
+.card {
+    border-style: inset;
+    border-color: green;
+    width: 325px;
+    height: 500px;
+    position: relative;
+    margin-top: 50px;
+    box-shadow: 100px black;
+    background-color: black;
+    color: green;
+}
+.box {
+    border-style: inset;
+    border-color: black;
+    width: 65%;
+    height: 60%;
+    position: absolute;
+    margin-top: 45px;
+    left: 18%;
+    background-image: url(/image/Capture.PNG);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.box1 {
+    margin-top: 125%;
+}
+.card1 {
+    border-style: inset;
+    border-color: green;
+    width: 325px;
+    height: 500px;
+    position: relative;
+    margin-top: 50px;
+    box-shadow: 100px black;
+    background-color: black;
+    color: green;
+    left: 920px;
+}
+
+.box2 {
+    border-style: inset;
+    border-color: black;
+    width: 65%;
+    height: 60%;
+    position: absolute;
+    margin-top: 45px;
+    left: 18%;
+    background-image: url(/image/Capture.PNG);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.box3 {
+    margin-top: 125%;
+    
+}
+.card2 {
+    border-style: inset;
+    border-color: green;
+    width: 325px;
+    height: 500px;
+    position: relative;
+    margin-top: 50px;
+    box-shadow: 100px black;
+    background-color: black;
+    color: green;
+}
+
+.box4 {
+    border-style: inset;
+    border-color: black;
+    width: 65%;
+    height: 60%;
+    position: absolute;
+    margin-top: 45px;
+    left: 18%;
+    background-image: url(/image/Capture.PNG);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.box5 {
+    margin-top: 125%;
+}
+
